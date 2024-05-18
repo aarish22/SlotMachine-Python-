@@ -37,7 +37,7 @@ This project is a text-based slot machine game implemented in Python. Players ca
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/slot-machine-game.git
+    git clone https://github.com/aarish22/SlotMachine-Python-.git
     cd slot-machine-game
     ```
 
